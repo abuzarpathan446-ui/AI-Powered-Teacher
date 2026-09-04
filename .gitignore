@@ -1,0 +1,11 @@
+# Local Python environments and generated caches
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Local editor and environment files
+.env
+.idea/
+.vscode/
