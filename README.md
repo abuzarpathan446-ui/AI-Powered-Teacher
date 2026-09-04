@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PowerTeacher — AI Teacher Brain
 
 Status: **Step 2 of 20 complete** — core schemas and an in-memory teacher-state manager.
@@ -50,3 +51,6 @@ Expected: all tests pass (currently 34 tests).
 `TeacherStepEngine.process_assessment()` accepts an `AssessmentResult`,
 updates the session through `TeacherStateManager`, and returns a validated
 `TeachingActionOutput` for the next teaching step.
+=======
+# AI-Powered-Teacher
+>>>>>>> 5f5b6a57deaaeb6977e7319faacd1bfed9e7f32d
